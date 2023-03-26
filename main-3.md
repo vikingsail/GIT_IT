@@ -1,2 +1,12 @@
 *notes taken from the lessons on https://learngitbranching.js.org/*
-# 
+# Git Cherry-pick
+> copy a series of commits below your current location (HEAD)  
+> it also moves HEAD to the lastest children node  
+
+    git cherry-pick <Commit1> <Commit2> <...>
+> note: `git cherry-pick` is ***more flexible*** than `git rebase` as you can pick and choose (cherry-pick) whatever node you want as the source of copying.
+# interactive `git rebase`
+> git will open up a UI to show you which commits are about to be **copied** below the target of the rebase.
+
+    git rebase -i [node_name]~<num>
+> worth noting: in the real git interactive rebase you can do many more things like squashing (combining) commits, amending commit messages, and even editing the commits themselves. For our purposes though we will focus on these two operations above.
