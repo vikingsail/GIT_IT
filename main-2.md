@@ -1,0 +1,30 @@
+*notes taken from the lessons on https://learngitbranching.js.org/*
+# HEAD: a symbolic name for the currently checked out commit (attach point)
+> to move HEAD around the git tree, use  
+
+    git checkout [branch_name] or [commit_name]
+# hash and relative refs.
+> to move HEAD one commit upwards  
+    
+    git checkout [branch_name]^
+> to move HEAD *num* commits upwards
+    
+    git checkout [branch_name]~<num>
+> HEAD can be used as a reference too!
+
+    git checkout [commit_name];git checkout HEAD^
+# force assigning a branch to a commit
+
+    git branch -f [branch_name] HEAD~<num>
+# reverse changes w/ removing history
+
+    git reset [commit_name](~<num>)
+> eg. remove the changes of C3, go back to C1 and remove history:
+
+    git reset HEAD~2
+# reverse changes w/o removing history
+
+    git revert [commit_name](~<num>)
+> eg. revert the changes of C3, go back to C1, but keep the history:
+
+    git revert HEAD~2
