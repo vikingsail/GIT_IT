@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Questions.md",
+                "file": "1. Introduction Sequence.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Questions.md",
+                "file": "1. Introduction Sequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Questions.md",
+                "file": "1. Introduction Sequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Questions.md"
+                "file": "1. Introduction Sequence.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "56be0dceea0f0e99",
   "lastOpenFiles": [
-    "README.md",
-    "4. A Mixed Bag.md",
-    "3. Moving Work Around.md",
     "2. Ramping Up.md",
     "1. Introduction Sequence.md",
     "0. Questions.md",
+    "3. Moving Work Around.md",
+    "4. A Mixed Bag.md",
+    "README.md",
     "Neues Textdokument.txt",
     "Neuer Ordner"
   ]
