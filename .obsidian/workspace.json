@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "36d76d67f26c3772",
+        "id": "05e77a5649d976a6",
         "type": "tabs",
         "children": [
           {
-            "id": "91654c90be244230",
+            "id": "56be0dceea0f0e99",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70aaa20cbea3fb9d",
+  "active": "56be0dceea0f0e99",
   "lastOpenFiles": [
+    "0. Questions.md",
     "Neues Textdokument.txt",
     "Neuer Ordner"
   ]
