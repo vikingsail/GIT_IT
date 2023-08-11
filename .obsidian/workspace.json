@@ -17,7 +17,27 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "4403f724eb9cb50a"
+          }
+        ]
+      },
+      {
+        "id": "2f6335b8e65f5ae6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66ede6736cd51ad5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Introduction Sequence.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "4403f724eb9cb50a"
           }
         ]
       }
@@ -69,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 265.5
   },
   "right": {
     "id": "65152cdefeb3858d",
@@ -148,9 +168,20 @@
   },
   "active": "56be0dceea0f0e99",
   "lastOpenFiles": [
-    "2. Ramping Up.md",
+    "references/Pasted image 20230811220235.png",
     "1. Introduction Sequence.md",
+    "references/Pasted image 20230811220505.png",
+    "references/Pasted image 20230811220303.png",
     "0. Questions.md",
+    "references/Pasted image 20230811210835.png",
+    "references/Pasted image 20230811215640.png",
+    "references/Pasted image 20230811215542.png",
+    "references/Pasted image 20230811215104.png",
+    "references/Pasted image 20230811215018.png",
+    "references/Pasted image 20230811213045.png",
+    "references/Pasted image 20230811213004.png",
+    "references",
+    "2. Ramping Up.md",
     "3. Moving Work Around.md",
     "4. A Mixed Bag.md",
     "README.md",
